@@ -41,6 +41,7 @@ footer a {
     padding: 0 3px;
 }
 
+/*Seccion oculta*/
 @media (max-width: 576px){
     #Quienes-somos{
         display: none;
